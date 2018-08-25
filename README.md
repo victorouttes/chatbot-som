@@ -1,5 +1,5 @@
 # chatbot-som
-ChatBot utilizando Self-Organising Maps
+ChatBot utilizando Self-Organizing Maps
 
 Documentacao no proprio codigo.
 
